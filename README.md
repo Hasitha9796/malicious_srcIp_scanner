@@ -1,4 +1,4 @@
-# malicious_srcIp_scanner
+# malicious_srcip_scanner
 Python script that reads log files and checks the source IP addresses against the AbuseIPDB, VirusTotal, and DB-IP databases
 
 To use this script, replace YOUR_ABUSEIPDB_API_KEY and YOUR_VIRUSTOTAL_API_KEY with your actual API keys for those services. Note that the AbuseIPDB API requires 
